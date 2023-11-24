@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3D158AAD-BF51-46E3-8352-45120320F28A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "76C749A8-6F20-4C49-94C2-B6645428D937"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Contacts_integration/ContactsTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "makeUIView(context:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "76C749A8-6F20-4C49-94C2-B6645428D937 - d9312d175ea3b4c8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Contacts_integration.ContactsTableViewCell.makeUIView(context: SwiftUI.UIViewRepresentableContext&lt;Contacts_integration.ContactsTableViewCell&gt;) -&gt; __C.UIView"
+                  moduleName = "Contacts_integration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vipulpurbey/Desktop/training/Contacts_integration/Contacts_integration/ContactsTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "275">
+               </Location>
+               <Location
+                  uuid = "76C749A8-6F20-4C49-94C2-B6645428D937 - d9312d175ea3b4c8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Contacts_integration.ContactsTableViewCell.makeUIView(context: SwiftUI.UIViewRepresentableContext&lt;Contacts_integration.ContactsTableViewCell&gt;) -&gt; __C.UIView"
+                  moduleName = "Contacts_integration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vipulpurbey/Desktop/training/Contacts_integration/Contacts_integration/ContactsTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "239">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "34950BB4-D138-4E73-89C7-2B914112B279"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Contacts_integration/ContactDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "makeUIViewController(context:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "158032BE-3EB2-4DCE-9F5B-262D3CAB8516"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Contacts_integration/ContactsList.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "383DF793-ABB9-4DED-A45C-C594F2CB1243"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Contacts_integration/ContactsList.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "300729FC-CD9E-4576-A32B-168AF9BC4D3A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Contacts_integration/ContactDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "changeContactNameButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "58D09E27-3400-44F9-8126-0786F74DDEDD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Contacts_integration/ContactsTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "updateUIView(_:context:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B64B768E-7DB4-41CE-9DAD-5B9D67D4ADD3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Contacts_integration/ContactDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "updateUIViewController(_:context:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B64B768E-7DB4-41CE-9DAD-5B9D67D4ADD3 - 913aa8ec3b6da8f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Contacts_integration.ContactDetailsRepresentable.updateUIViewController(_: Contacts_integration.ContactDetailViewController, context: SwiftUI.UIViewControllerRepresentableContext&lt;Contacts_integration.ContactDetailsRepresentable&gt;) -&gt; ()"
+                  moduleName = "Contacts_integration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vipulpurbey/Desktop/training/Contacts_integration/Contacts_integration/ContactDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "212">
+               </Location>
+               <Location
+                  uuid = "B64B768E-7DB4-41CE-9DAD-5B9D67D4ADD3 - 913aa8ec3b6da8f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Contacts_integration.ContactDetailsRepresentable.updateUIViewController(_: Contacts_integration.ContactDetailViewController, context: SwiftUI.UIViewControllerRepresentableContext&lt;Contacts_integration.ContactDetailsRepresentable&gt;) -&gt; ()"
+                  moduleName = "Contacts_integration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vipulpurbey/Desktop/training/Contacts_integration/Contacts_integration/ContactDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "208">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3C81143D-69E0-4F1F-BB25-B96721B02857"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Contacts_integration/ContactDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "datapassing(newName:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3C81143D-69E0-4F1F-BB25-B96721B02857 - 78d6f99cbd3b35db"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Contacts_integration.ContactDetailsRepresentable.Coordinator.datapassing(newName: Swift.String) -&gt; ()"
+                  moduleName = "Contacts_integration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vipulpurbey/Desktop/training/Contacts_integration/Contacts_integration/ContactDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "858">
+               </Location>
+               <Location
+                  uuid = "3C81143D-69E0-4F1F-BB25-B96721B02857 - 78d6f99cbd3b35db"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Contacts_integration.ContactDetailsRepresentable.Coordinator.datapassing(newName: Swift.String) -&gt; ()"
+                  moduleName = "Contacts_integration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vipulpurbey/Desktop/training/Contacts_integration/Contacts_integration/ContactDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "217">
+               </Location>
+               <Location
+                  uuid = "3C81143D-69E0-4F1F-BB25-B96721B02857 - 78d6f99cbd3b35db"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Contacts_integration.ContactDetailsRepresentable.Coordinator.datapassing(newName: Swift.String) -&gt; ()"
+                  moduleName = "Contacts_integration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vipulpurbey/Desktop/training/Contacts_integration/Contacts_integration/ContactDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "541">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
